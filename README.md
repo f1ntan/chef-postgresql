@@ -1,4 +1,12 @@
-chef-postgresql
-===============
+Description
+===========
 
-Install postgresql on ubuntu using chef
+Requirements
+============
+
+Attributes
+==========
+
+Usage
+=====
+
